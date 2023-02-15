@@ -1,4 +1,3 @@
-#🪩 Gleamy
 Hey coders, are you tired of creating websites that are as exciting as a potato? Then you need Gleamy – the web design tool that's like dipping your creations in liquid gold!
 
 With Gleamy, you can turn your flat design components into glittering, interactive surfaces that make people go 'ooh' and 'aah'. Whether you want to create buttons that people can't help but click, logos that look like they've been dipped in gold, or surfaces that are as shiny and new as a glitter cone, Gleamy has got you covered.
