@@ -1,3 +1,1 @@
-Gleamy is a web design tool that replaces boring flat buttons and surfaces with something more shiny and interactive. Using HTML5 canvas and React, Gleamy lets you create web interfaces that mimic the look and feel of print foil, creating designs that are both beautiful and tactile. Even if you have no design experience, Gleamy's use of the library is very simple. But it becomes powerful with adjusting the parameters. To keep that part simple, the intuitive web-based configuration interface makes it easy to create amazing designs that will take your website to the next level.
 
-**Gleamy is great for making logos, buttons and surfaces pop!**
